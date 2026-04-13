@@ -29,7 +29,7 @@ def retrive(query):
 
 
 client = OpenAI(
-    api_key="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",
+    api_key="The API key",
     base_url="https://api.groq.com/openai/v1",
                 
 )
